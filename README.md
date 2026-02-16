@@ -1,6 +1,17 @@
-# 🤖 Ourin MD V2.0.0 — FREE Edition
 
-![Ourin MD](https://files.cloudkuimages.guru/images/51a2c5186302.jpg)
+<div align="center">
+  <h1>🤖 Ourin MD V2.0.0 — FREE Edition</h1>
+  <a href="https://github.com/LuckyArch/OurinMD/stargazers"><img src="https://img.shields.io/github/stars/LuckyArch/OurinMD?style=for-the-badge&logo=github&color=yellow" alt="Stars"></a>
+  <a href="https://github.com/LuckyArch/OurinMD/network/members"><img src="https://img.shields.io/github/forks/LuckyArch/OurinMD?style=for-the-badge&logo=github&color=orange" alt="Forks"></a>
+  <a href="https://github.com/LuckyArch/OurinMD/issues"><img src="https://img.shields.io/github/issues/LuckyArch/OurinMD?style=for-the-badge&logo=github&color=red" alt="Issues"></a>
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-20%2B-green?style=for-the-badge&logo=nodedotjs" alt="Node Version">
+  <img src="https://img.shields.io/github/last-commit/LuckyArch/OurinMD?style=for-the-badge&logo=github" alt="Last Commit">
+</div>
+
+--- 
+
+![Ourin MD](https://cdn.gimita.id/download/20ca87252aeade0b1b9a0ac9a2c6bc06_1771229524856_fb32ef0b.jpg)
 
 WhatsApp Multi-Device Bot dengan sistem plugin modular, 700+ fitur, dan UI interaktif.
 
@@ -28,10 +39,7 @@ WhatsApp Multi-Device Bot dengan sistem plugin modular, 700+ fitur, dan UI inter
 
 ### 🌙 Spesial Ramadhan
 - 🥘 **Auto Sahur** — Pengingat waktu sahur otomatis ke grup
-- 🕌 **Auto Sholat & Adzan** — Notifikasi waktu sholat dengan audio adzan
-- 🔒 **Auto Close Group** — Otomatis tutup grup saat sholat & buka kembali setelah selesai
-- 📅 **Jadwal Imsakiyah** — Cek jadwal imsak & berbuka real-time
-- 📖 **Konten Islami** — Asmaul Husna, Doa harian, Ayat Kursi, dll
+- Dan 20+ Fitur Ramadhan Lainnya
 
 ---
 
@@ -41,7 +49,7 @@ WhatsApp Multi-Device Bot dengan sistem plugin modular, 700+ fitur, dan UI inter
 
 | Kebutuhan | Versi |
 |-----------|-------|
-| Node.js | `>= 18.0.0` |
+| Node.js | `>= 20.0.0` |
 | Git | Terbaru |
 | FFmpeg | Terbaru |
 
