@@ -13,7 +13,7 @@ WhatsApp Multi-Device Bot dengan sistem plugin modular, 700+ fitur, dan UI inter
 
 ### 📨 Interaksi & UI
 - 👉🏻 Button, List, Carousel, dan Native Flow message
-- 🎨 9 varian tampilan menu (V1–V9)
+- 🎨 11 varian tampilan menu (V1–V11)
 - 📊 Leaderboard, profil user, dan sistem level/EXP
 
 ### 🔐 Manajemen & Keamanan
@@ -25,6 +25,13 @@ WhatsApp Multi-Device Bot dengan sistem plugin modular, 700+ fitur, dan UI inter
 - ⚔️ Sistem RPG lengkap (berburu, berladang, casino, dll)
 - 🎯 20+ game tebak-tebakan interaktif
 - 🏆 Sistem koin, stamina, dan daily/hourly rewards
+
+### 🌙 Spesial Ramadhan
+- 🥘 **Auto Sahur** — Pengingat waktu sahur otomatis ke grup
+- 🕌 **Auto Sholat & Adzan** — Notifikasi waktu sholat dengan audio adzan
+- 🔒 **Auto Close Group** — Otomatis tutup grup saat sholat & buka kembali setelah selesai
+- 📅 **Jadwal Imsakiyah** — Cek jadwal imsak & berbuka real-time
+- 📖 **Konten Islami** — Asmaul Husna, Doa harian, Ayat Kursi, dll
 
 ---
 
@@ -218,7 +225,6 @@ Bot sudah dilengkapi fitur auto-update. Cukup ketik di chat:
 
 > [!CAUTION]
 > - Simpan `config.js` kamu sendiri, jangan share API key
-> - Backup `sessions/` secara berkala
 > - Gunakan `.updatescript` untuk update aman tanpa kehilangan data
 
 ---
@@ -227,15 +233,17 @@ Bot sudah dilengkapi fitur auto-update. Cukup ketik di chat:
 
 > [!IMPORTANT]
 > **Developer & Team:**
-> - **Lucky Archz (Zann)** — Lead Developer
-> - **HyuuSATAN** — Staff
+> - **Hyuu** — Lead Staff
+> - **Lucky Archz ( Zann )** — Umm, Developer Pemula
 > - **Keisya** — Owner
 > - **Danzzz** — Designer
-> - **Sanxz, Kaziee, Tama, Rakaa, Dinzz, Muzan** — Core Team
-> - **Liaa** — Baileys Helper
+> - **Sanxz, Syura Salsabila, Tama, Rakaa, Dinzz, Forone** — Tangan Kanan
+> - **Muzann** — Owner
+> - **Fahmi, Baim** — Moderator
+> - **Liaa** — Helper
 >
 > **Powered by:**
-> - [Baileys](https://github.com/WhiskeySockets/Baileys) — WhatsApp Web API
+> - [Baileys](https://github.com/LuckyArch/OurinGlitch-Baileys) — WhatsApp Web API Original
 > - [Node.js](https://nodejs.org) — Runtime
 > - [FFmpeg](https://ffmpeg.org) — Media Processing
 
@@ -243,7 +251,6 @@ Bot sudah dilengkapi fitur auto-update. Cukup ketik di chat:
 
 ## 📎 **Links**
 
-- 📦 Repository: [github.com/LuckyArch/OurinMD](https://github.com/LuckyArch/OurinMD)
 - 📢 Saluran WA: [Klik di sini](https://whatsapp.com/channel/0029VbB37bgBfxoAmAlsgE0t)
 - 🌐 Website: [sc.ourin.my.id](https://sc.ourin.my.id)
 
@@ -251,5 +258,4 @@ Bot sudah dilengkapi fitur auto-update. Cukup ketik di chat:
 
 <p align="center">
   <b>© 2026 Ourin MD — Made with ❤️</b><br>
-  <sub>GRATIS — Jangan dijual</sub>
 </p>
