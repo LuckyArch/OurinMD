@@ -1,6 +1,7 @@
 
 <div align="center">
   <h1>🤖 Ourin MD V2.0.0 — FREE Edition</h1>
+  <img src='https://cdn.gimita.id/download/20ca87252aeade0b1b9a0ac9a2c6bc06_1771229524856_fb32ef0b.jpg' alt='Ourin MD' />
   <a href="https://github.com/LuckyArch/OurinMD/stargazers"><img src="https://img.shields.io/github/stars/LuckyArch/OurinMD?style=for-the-badge&logo=github&color=yellow" alt="Stars"></a>
   <a href="https://github.com/LuckyArch/OurinMD/network/members"><img src="https://img.shields.io/github/forks/LuckyArch/OurinMD?style=for-the-badge&logo=github&color=orange" alt="Forks"></a>
   <a href="https://github.com/LuckyArch/OurinMD/issues"><img src="https://img.shields.io/github/issues/LuckyArch/OurinMD?style=for-the-badge&logo=github&color=red" alt="Issues"></a>
@@ -8,10 +9,6 @@
   <img src="https://img.shields.io/badge/Node.js-20%2B-green?style=for-the-badge&logo=nodedotjs" alt="Node Version">
   <img src="https://img.shields.io/github/last-commit/LuckyArch/OurinMD?style=for-the-badge&logo=github" alt="Last Commit">
 </div>
-
---- 
-
-![Ourin MD](https://cdn.gimita.id/download/20ca87252aeade0b1b9a0ac9a2c6bc06_1771229524856_fb32ef0b.jpg)
 
 WhatsApp Multi-Device Bot dengan sistem plugin modular, 700+ fitur, dan UI interaktif.
 
