@@ -26,7 +26,6 @@ const PRESERVE_ITEMS = [
     'db.json',
     'sessions',
     'database',
-    'backup',
     '.env',
     'node_modules',
     'tmp'
