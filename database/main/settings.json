@@ -1,0 +1,56 @@
+{
+  "selfMode": false,
+  "ownerNumbers": [
+    "6283106414327",
+    "6283144828277"
+  ],
+  "ownerType": 3,
+  "welcomeType": 3,
+  "replyVariant": 6,
+  "menuVariant": 3,
+  "botAfk": {
+    "active": false
+  },
+  "cmdVn": false,
+  "autoSholatKota": {
+    "id": "2622",
+    "nama": "KOTA MAKASSAR"
+  },
+  "onlyGc": false,
+  "onlyPc": false,
+  "giveaways": {
+    "GA-MGKQB4": {
+      "giveawayId": "GA-MGKQB4",
+      "chatId": "120363423808062915@g.us",
+      "title": "start Ini Contoh",
+      "prizeName": "Test Test",
+      "prizeDetails": "Akun Free Fire: Ppppp",
+      "description": "Ini Deskripsi",
+      "winners": 2,
+      "endTime": 1770775036179,
+      "creatorId": "6283106414327@s.whatsapp.net",
+      "adminJid": "6283106414327@s.whatsapp.net",
+      "participants": [
+        "6283106414327@s.whatsapp.net",
+        "628979985621@s.whatsapp.net"
+      ],
+      "ended": true,
+      "createdAt": 1770771436179,
+      "endedAt": 1770771592193,
+      "winnerList": [
+        "628979985621@s.whatsapp.net",
+        "6283106414327@s.whatsapp.net"
+      ]
+    }
+  },
+  "botMode": "public",
+  "audioMenu": false,
+  "transactionSessions": {},
+  "premiumUsers": [
+    "155753415500028",
+    "281157149155422"
+  ],
+  "similarity": true,
+  "botRules": "1. dilarang gay \n2. hormat",
+  "goodbyeType": 4
+}

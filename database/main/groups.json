@@ -1,0 +1,606 @@
+{
+  "120363423808062915@g.us": {
+    "chatStats": {
+      "6283106414327@s.whatsapp.net": {
+        "count": 107,
+        "lastChat": 1771116123748
+      },
+      "6289513946741@s.whatsapp.net": {
+        "count": 7,
+        "lastChat": 1770808265155
+      },
+      "628979985621@s.whatsapp.net": {
+        "count": 9,
+        "lastChat": 1770806316357
+      },
+      "6281266508055@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1771035510140
+      }
+    },
+    "jid": "120363423808062915@g.us",
+    "name": "PROGRESS V2",
+    "welcome": false,
+    "leave": false,
+    "goodbye": false,
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "warnings": [],
+    "chat": {},
+    "intro": "TES\n\nNAA\nSS\nSS\nSS\nSS\n\nSSSSS",
+    "notifPromote": true,
+    "notifDemote": true
+  },
+  "120363406296257277@g.us": {
+    "welcome": false,
+    "goodbye": false,
+    "leave": false,
+    "jid": "120363406296257277@g.us",
+    "name": "👻 INFORMATION OURIN MD",
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "warnings": [],
+    "chat": {},
+    "chatStats": {
+      "6283144828277@s.whatsapp.net": {
+        "count": 13,
+        "lastChat": 1771150845110
+      },
+      "6285739793353@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1770782371373
+      },
+      "6282175939107@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1771057299012
+      },
+      "6281260275185@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1771150815970
+      }
+    }
+  },
+  "120363424358198516@g.us": {
+    "chatStats": {
+      "6283106414327@s.whatsapp.net": {
+        "count": 848,
+        "lastChat": 1771151198445
+      },
+      "6283144828277@s.whatsapp.net": {
+        "count": 278,
+        "lastChat": 1771150766980
+      },
+      "6285712164454@s.whatsapp.net": {
+        "count": 172,
+        "lastChat": 1771150250637
+      },
+      "6285877542114@s.whatsapp.net": {
+        "count": 63,
+        "lastChat": 1771145710290
+      },
+      "6282175939107@s.whatsapp.net": {
+        "count": 36,
+        "lastChat": 1771085517319
+      },
+      "628987655772@s.whatsapp.net": {
+        "count": 92,
+        "lastChat": 1771151264472
+      },
+      "6281316090936@s.whatsapp.net": {
+        "count": 97,
+        "lastChat": 1771067781927
+      },
+      "6282324624080@s.whatsapp.net": {
+        "count": 538,
+        "lastChat": 1771151269030
+      },
+      "6282119638520@s.whatsapp.net": {
+        "count": 71,
+        "lastChat": 1770891062250
+      },
+      "6285882035091@s.whatsapp.net": {
+        "count": 30,
+        "lastChat": 1771142938196
+      },
+      "6281244371542@s.whatsapp.net": {
+        "count": 11,
+        "lastChat": 1770807300929
+      },
+      "639561923201@s.whatsapp.net": {
+        "count": 21,
+        "lastChat": 1771065436839
+      },
+      "628979985621@s.whatsapp.net": {
+        "count": 89,
+        "lastChat": 1771151255657
+      },
+      "6285212257763@s.whatsapp.net": {
+        "count": 7,
+        "lastChat": 1770727421082
+      },
+      "6281260275185@s.whatsapp.net": {
+        "count": 93,
+        "lastChat": 1771147769447
+      },
+      "628812584117@s.whatsapp.net": {
+        "count": 70,
+        "lastChat": 1771151151207
+      },
+      "6281227252457@s.whatsapp.net": {
+        "count": 31,
+        "lastChat": 1771147482350
+      },
+      "62895333507949@s.whatsapp.net": {
+        "count": 58,
+        "lastChat": 1771142620928
+      },
+      "6285739793353@s.whatsapp.net": {
+        "count": 10,
+        "lastChat": 1771139723162
+      },
+      "628136216304@s.whatsapp.net": {
+        "count": 11,
+        "lastChat": 1770789477074
+      },
+      "6285803144467@s.whatsapp.net": {
+        "count": 194,
+        "lastChat": 1771151033365
+      },
+      "6285655922709@s.whatsapp.net": {
+        "count": 13,
+        "lastChat": 1771134829129
+      },
+      "6283157374527@s.whatsapp.net": {
+        "count": 52,
+        "lastChat": 1770816129586
+      },
+      "6285168827500@s.whatsapp.net": {
+        "count": 10,
+        "lastChat": 1771080467223
+      },
+      "6285198061232@s.whatsapp.net": {
+        "count": 14,
+        "lastChat": 1771081509121
+      },
+      "6285355458766@s.whatsapp.net": {
+        "count": 12,
+        "lastChat": 1771080192465
+      },
+      "628818092741@s.whatsapp.net": {
+        "count": 10,
+        "lastChat": 1770890857349
+      },
+      "6289519482895@s.whatsapp.net": {
+        "count": 24,
+        "lastChat": 1771082004931
+      },
+      "6285362788020@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1770980773505
+      },
+      "6289699183927@s.whatsapp.net": {
+        "count": 8,
+        "lastChat": 1771120290060
+      },
+      "6283852552190@s.whatsapp.net": {
+        "count": 8,
+        "lastChat": 1771135823156
+      },
+      "60192836453@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1771135809047
+      }
+    },
+    "jid": "120363424358198516@g.us",
+    "name": "GB RESELLER-TK APK STARDEMOURIN",
+    "welcome": true,
+    "leave": true,
+    "goodbye": true,
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "warnings": [],
+    "chat": {},
+    "botMode": "md",
+    "autoSahur": true
+  },
+  "120363424457925646@g.us": {
+    "chatStats": {
+      "6283106414327@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1770701005394
+      }
+    },
+    "jid": "120363424457925646@g.us",
+    "name": "A",
+    "welcome": false,
+    "leave": false,
+    "goodbye": false,
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "warnings": [],
+    "chat": {}
+  },
+  "120363421922782403@g.us": {
+    "chatStats": {
+      "6283106414327@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1770701153174
+      }
+    },
+    "jid": "120363421922782403@g.us",
+    "name": "Jfi",
+    "welcome": false,
+    "leave": false,
+    "goodbye": false,
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "warnings": [],
+    "chat": {}
+  },
+  "120363406752852301@g.us": {
+    "chatStats": {
+      "6283106414327@s.whatsapp.net": {
+        "count": 91,
+        "lastChat": 1770787800226
+      },
+      "639561923201@s.whatsapp.net": {
+        "count": 6,
+        "lastChat": 1770770524699
+      }
+    },
+    "jid": "120363406752852301@g.us",
+    "name": "Se",
+    "welcome": true,
+    "leave": false,
+    "goodbye": false,
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "warnings": [],
+    "chat": {}
+  },
+  "120363400654037217@g.us": {
+    "chatStats": {
+      "6283139882434@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1770725577733
+      }
+    },
+    "jid": "120363400654037217@g.us",
+    "name": "Community Feature : CF",
+    "welcome": false,
+    "leave": false,
+    "goodbye": false,
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "warnings": [],
+    "chat": {}
+  },
+  "120363385601246656@g.us": {
+    "chatStats": {
+      "628132609291@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1770726141847
+      },
+      "84899554172@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1770726142184
+      }
+    },
+    "jid": "120363385601246656@g.us",
+    "name": "[🌷]  Chat Grup Ayame || Hikarii アシスタント",
+    "welcome": false,
+    "leave": false,
+    "goodbye": false,
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "warnings": [],
+    "chat": {}
+  },
+  "120363407600611452@g.us": {
+    "welcome": false,
+    "goodbye": false,
+    "leave": false,
+    "jid": "120363407600611452@g.us",
+    "name": "Unknown Group",
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "warnings": [],
+    "chat": {}
+  },
+  "120363403738794364@g.us": {
+    "chatStats": {
+      "6289520120043@s.whatsapp.net": {
+        "count": 5,
+        "lastChat": 1770823312031
+      },
+      "6283106414327@s.whatsapp.net": {
+        "count": 60,
+        "lastChat": 1771139798566
+      },
+      "6285803144467@s.whatsapp.net": {
+        "count": 70,
+        "lastChat": 1771083881610
+      },
+      "6282175939107@s.whatsapp.net": {
+        "count": 27,
+        "lastChat": 1771087219162
+      },
+      "6283144828277@s.whatsapp.net": {
+        "count": 35,
+        "lastChat": 1771150767543
+      },
+      "6285725867464@s.whatsapp.net": {
+        "count": 5,
+        "lastChat": 1770881835766
+      },
+      "6283891009696@s.whatsapp.net": {
+        "count": 114,
+        "lastChat": 1771140680270
+      },
+      "6281278197518@s.whatsapp.net": {
+        "count": 7,
+        "lastChat": 1770814747069
+      },
+      "62882020521943@s.whatsapp.net": {
+        "count": 15,
+        "lastChat": 1771146784456
+      },
+      "6285825321913@s.whatsapp.net": {
+        "count": 37,
+        "lastChat": 1771068576032
+      },
+      "6285772025427@s.whatsapp.net": {
+        "count": 6,
+        "lastChat": 1770824578442
+      },
+      "6285720143225@s.whatsapp.net": {
+        "count": 15,
+        "lastChat": 1771087122806
+      },
+      "84988289146@s.whatsapp.net": {
+        "count": 92,
+        "lastChat": 1771150241410
+      },
+      "6289525729261@s.whatsapp.net": {
+        "count": 53,
+        "lastChat": 1770983101412
+      },
+      "6282324624080@s.whatsapp.net": {
+        "count": 112,
+        "lastChat": 1771142305617
+      },
+      "6283157374527@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1770814920230
+      },
+      "639972712087@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1770815272216
+      },
+      "6281266508055@s.whatsapp.net": {
+        "count": 12,
+        "lastChat": 1771139788035
+      },
+      "6287815441815@s.whatsapp.net": {
+        "count": 3,
+        "lastChat": 1770824002986
+      },
+      "6289601449137@s.whatsapp.net": {
+        "count": 22,
+        "lastChat": 1771081469918
+      },
+      "628132607481@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1770821259237
+      },
+      "6289509678547@s.whatsapp.net": {
+        "count": 15,
+        "lastChat": 1771058394320
+      },
+      "573507786796@s.whatsapp.net": {
+        "count": 2,
+        "lastChat": 1771046020352
+      },
+      "6285189177145@s.whatsapp.net": {
+        "count": 8,
+        "lastChat": 1770824625633
+      },
+      "6283187173279@s.whatsapp.net": {
+        "count": 5,
+        "lastChat": 1771087072607
+      },
+      "6285129230250@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1770877310285
+      },
+      "6282245815492@s.whatsapp.net": {
+        "count": 25,
+        "lastChat": 1771141020128
+      },
+      "6285739793353@s.whatsapp.net": {
+        "count": 8,
+        "lastChat": 1771139583675
+      },
+      "6283861794161@s.whatsapp.net": {
+        "count": 8,
+        "lastChat": 1771126126950
+      },
+      "6285718864094@s.whatsapp.net": {
+        "count": 12,
+        "lastChat": 1771049628007
+      },
+      "6285362788020@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1770981567455
+      },
+      "6289513946741@s.whatsapp.net": {
+        "count": 7,
+        "lastChat": 1771117633054
+      },
+      "6282381143579@s.whatsapp.net": {
+        "count": 15,
+        "lastChat": 1771147371112
+      },
+      "6285943502869@s.whatsapp.net": {
+        "count": 60,
+        "lastChat": 1771128007356
+      },
+      "6282337546749@s.whatsapp.net": {
+        "count": 7,
+        "lastChat": 1771142037198
+      },
+      "6287746989227@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1771046875673
+      },
+      "6283899252410@s.whatsapp.net": {
+        "count": 3,
+        "lastChat": 1771062294397
+      },
+      "6287780345788@s.whatsapp.net": {
+        "count": 2,
+        "lastChat": 1771053775161
+      },
+      "6282268058716@s.whatsapp.net": {
+        "count": 4,
+        "lastChat": 1771056971236
+      },
+      "6285624600780@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1771057248993
+      },
+      "6285746399883@s.whatsapp.net": {
+        "count": 9,
+        "lastChat": 1771133772032
+      },
+      "6285773464438@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1771067950257
+      },
+      "6283853142299@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1771071776645
+      },
+      "6288227267404@s.whatsapp.net": {
+        "count": 9,
+        "lastChat": 1771142119365
+      },
+      "6282184701117@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1771081842522
+      },
+      "6285716053994@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1771086091409
+      },
+      "628818092741@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1771122407183
+      },
+      "6285655922709@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1771125589372
+      },
+      "6289528537646@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1771125707236
+      },
+      "6285712164454@s.whatsapp.net": {
+        "count": 45,
+        "lastChat": 1771142515946
+      },
+      "6282262778698@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1771128099430
+      },
+      "584167305962@s.whatsapp.net": {
+        "count": 5,
+        "lastChat": 1771139932327
+      },
+      "6285877542114@s.whatsapp.net": {
+        "count": 1,
+        "lastChat": 1771142617796
+      }
+    },
+    "jid": "120363403738794364@g.us",
+    "name": "𝐺𝑅𝑈𝑃 𝐶𝐻𝐴𝑇 - 𝑂𝑈𝑅𝐼𝑁 𝑀𝐷",
+    "welcome": false,
+    "leave": false,
+    "goodbye": false,
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "warnings": [],
+    "chat": {}
+  },
+  "120363404761472973@g.us": {
+    "chatStats": {
+      "6283106414327@s.whatsapp.net": {
+        "count": 323,
+        "lastChat": 1771150405768
+      },
+      "639561923201@s.whatsapp.net": {
+        "count": 6,
+        "lastChat": 1771147242955
+      },
+      "639354993056@s.whatsapp.net": {
+        "count": 3,
+        "lastChat": 1771120593442
+      }
+    },
+    "jid": "120363404761472973@g.us",
+    "name": "Gg",
+    "welcome": true,
+    "leave": false,
+    "goodbye": false,
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "warnings": [],
+    "chat": {},
+    "botMode": "md",
+    "welcomeMsg": "hai",
+    "antitagsw": "on",
+    "antidocument": true
+  },
+  "120363406987226422@g.us": {
+    "chatStats": {
+      "6283106414327@s.whatsapp.net": {
+        "count": 139,
+        "lastChat": 1771034131549
+      },
+      "639561923201@s.whatsapp.net": {
+        "count": 12,
+        "lastChat": 1770954694335
+      },
+      "6282324624080@s.whatsapp.net": {
+        "count": 11,
+        "lastChat": 1771047865088
+      }
+    },
+    "jid": "120363406987226422@g.us",
+    "name": "S",
+    "welcome": false,
+    "leave": false,
+    "goodbye": false,
+    "antilink": false,
+    "antitoxic": false,
+    "mute": false,
+    "warnings": [],
+    "chat": {},
+    "botMode": "otp",
+    "storeConfig": {
+      "autoorder": false,
+      "products": []
+    }
+  }
+}
